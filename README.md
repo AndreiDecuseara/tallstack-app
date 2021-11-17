@@ -9,6 +9,6 @@
 
 ## How to use
 1. Download the package
-2. Install Package
+2. Install package
 3. Run `tallstach.sh` into your projects folder, where valet is parked
 4. Follow the instructions from the script.
