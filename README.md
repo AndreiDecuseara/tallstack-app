@@ -100,7 +100,3 @@ The script allows you to automate all of the following:
 https://user-images.githubusercontent.com/37242478/147577554-8643497a-ea1f-4b2c-bb7f-41309a5dace2.mp4
 
 
-
-https://user-images.githubusercontent.com/37242478/147577554-8643497a-ea1f-4b2c-bb7f-41309a5dace2.mp4
-
-
