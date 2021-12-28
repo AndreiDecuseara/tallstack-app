@@ -104,9 +104,9 @@ https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-
 | --- | --- |
 | <img src="https://user-images.githubusercontent.com/37242478/147597936-354269ca-7fd1-4139-8368-69461e1a5e41.png" width="600"/> | <img src="https://user-images.githubusercontent.com/37242478/147597980-39c31f09-1479-4272-bfd9-f112c9a1efb2.png" width="600"/>
 
-<!-- <div style="width: 50%">
-<img src="https://user-images.githubusercontent.com/37242478/147597274-37d004cc-94ea-4817-9982-7222e6918a04.png" />
-</div> -->
+| <p align="center" >Register</p> | <p align="center" > Backpack for Laravel </p> |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/37242478/147598252-eb8dc6a7-4771-4690-b72f-591833ec2493.png" width="600"/> | <img src="https://user-images.githubusercontent.com/37242478/147598360-5c6dca2b-a9ec-41be-a9f6-540b79d9532f.png" width="600"/>
 
 
 
