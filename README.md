@@ -97,7 +97,6 @@ The script allows you to automate all of the following:
      <li>Auto-open browser on your new TALL Stack project when setup is complete</li>
 </ul>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/646381626?h=40f9e710f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="install-tallstack-complete.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<br>
+https://user-images.githubusercontent.com/37242478/147577554-8643497a-ea1f-4b2c-bb7f-41309a5dace2.mp4
 
 
