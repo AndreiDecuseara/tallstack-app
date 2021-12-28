@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/github/issues-raw/AndreiDecuseara/tallstack?color=red" />
 
-<img src="https://img.shields.io/github/issues-closed-raw/AndreiDecuseara/tallstack?color=success" />
+<img src="https://img.shields.io/github/issues-closed-raw/AndreiDecuseara/tallstack" />
 
 <img src="https://img.shields.io/github/last-commit/AndreiDecuseara/tallstack?color=purple" />
 
@@ -90,7 +90,10 @@ The script allows you to automate all of the following:
           <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" />
      </li>
      <li>Automatically create everything you need for auth (login, reset, register). You are able to choose whether you want out of the box auth or not.</li>
-     <li>Choose whether you would like to install Backpack for Laravel</li>
+     <li>
+          Choose whether you would like to install Backpack for Laravel <br>
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/15017015?s=200&v=4" />
+     </li>
      <li>Auto-open browser on your new TALL Stack project when setup is complete</li>
 </ul>
 <br>
