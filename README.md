@@ -100,5 +100,14 @@ The script allows you to automate all of the following:
 https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-9e05-62da431b1022.mp4
 
 
+| <p align="center" >Tall Stack start page</p> | <p align="center" > Login </p> |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/37242478/147597936-354269ca-7fd1-4139-8368-69461e1a5e41.png" width="600"/> | <img src="https://user-images.githubusercontent.com/37242478/147597980-39c31f09-1479-4272-bfd9-f112c9a1efb2.png" width="600"/>
+
+<!-- <div style="width: 50%">
+<img src="https://user-images.githubusercontent.com/37242478/147597274-37d004cc-94ea-4817-9982-7222e6918a04.png" />
+</div> -->
+
+
 
 
