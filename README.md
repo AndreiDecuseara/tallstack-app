@@ -1,14 +1,18 @@
-# Tallstack Pack
+<h1 align="center">
+  Automate your entire project setup with this <br> TALL Stack package
+</h1>
+<h4 align="center">A Linux script that installs & configures TALL Stack, so you don`t have to.</h4>
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#requirements">Requirements</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#license">License</a> • 
+  <a href="#security">Security</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#updates">Updates</a>
+</p>
 
-## Requirements
-    - Operating system: Linux
-    - Valet installed (https://cpriego.github.io/valet-linux/)
-    - PHP installed (sudo apt-get install php8.0 php8.0-cli php8.0-common php8.0-mysql php8.0-mbstring php8.0-mcrypt php8.0-zip php8.0-fpm)
-    - Composer installed (https://getcomposer.org/download/)
-    - Node and npm installed (https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
+---
 
-## How to use
-1. Download the package
-2. Install package
-3. Run `tallstack.sh` into your projects folder, where valet is parked
-4. Follow the instructions from the script.
+
