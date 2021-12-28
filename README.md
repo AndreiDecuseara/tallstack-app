@@ -97,6 +97,8 @@ The script allows you to automate all of the following:
      <li>Auto-open browser on your new TALL Stack project when setup is complete</li>
 </ul>
 
-https://user-images.githubusercontent.com/37242478/147577554-8643497a-ea1f-4b2c-bb7f-41309a5dace2.mp4
+https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-9e05-62da431b1022.mp4
+
+
 
 
