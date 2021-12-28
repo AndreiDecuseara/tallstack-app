@@ -28,7 +28,7 @@
 <br>
 
 ### • Download version for Linux
-<a href="/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
+<a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
 </a>
 
 ### • Download version for Windows
