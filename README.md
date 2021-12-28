@@ -36,7 +36,7 @@
 
 | <p align="center" > Linux </p> | <p align="center" > macOS  </p> | <p align="center" > Windows  </p> |
 | --- | --- | --- |
-| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#" data-view-component="true" class="btn-sm btn BtnGroup-item">  Comming soon </a>
+| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <p>  Comming soon </p>
 
 ## About
 <p>
