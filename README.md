@@ -45,12 +45,54 @@
 ### • Download version for Windows
 <a href="#" data-view-component="true" class="btn-sm btn BtnGroup-item">  Comming soon
 </a>
-
+<br>
 
 ## About
-<br>
 <p>
 What if we told you setting up your TALL Stack project could take less than cleaning your desk? Bet you won't procrastinate starting that project now...  
 </p>
+
+### WHO is it for?
+<ul>
+     <li>Busy developers (aren't we all?!) who need to start writing code as fast as possible</li>
+     <li>Technical Team Leads who need to onboard new team members on TALL Stack projects</li>
+     <li>Developers new to TALL Stack who need to set up their first project and get started with these technologies</li>
+</ul>
+
+### WHAT does it do?
+<p>
+The script allows you to automate all of the following:
+</p>
+
+<ul>
+     <li>Setup and create new project</li>
+     <li>
+          Install jQuery <br>
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" />
+     </li>
+     <li>
+          Install all TALL Stack technologies: <br>
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" />
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" />
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" />
+     </li>
+     <li>
+          Create optimizations and install Laravel Mix. Run all npm commands <br>
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/89786265?s=200&v=4" />
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" />
+     </li>
+     <li>Create optimized file structure ready to be used in a new TALL Stack app </li>
+     <li>Create Livewire example, instead of Laravel</li>
+     <li>Create new TALL Stack start page with all the required resources</li>
+     <li>
+          Use your latest Node version, changed automatically from script <br>
+          <img width = "40" heigh = "40" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" />
+     </li>
+     <li>Automatically create everything you need for auth (login, reset, register). You are able to choose whether you want out of the box auth or not.</li>
+     <li>Choose whether you would like to install Backpack for Laravel</li>
+     <li>Auto-open browser on your new TALL Stack project when setup is complete</li>
+</ul>
+<br>
 
 
