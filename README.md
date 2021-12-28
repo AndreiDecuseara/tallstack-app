@@ -38,8 +38,6 @@
 | --- | --- | --- |
 | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#" data-view-component="true" class="btn-sm btn BtnGroup-item">  Comming soon </a>
 
-<br>
-
 ## About
 <p>
 What if we told you setting up your TALL Stack project could take less than cleaning your desk? Bet you won't procrastinate starting that project now...  
