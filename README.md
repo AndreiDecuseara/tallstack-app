@@ -8,6 +8,14 @@
 
 <img src="https://img.shields.io/packagist/dt/andreidecuseara/tallstack?color=green" />
 
+<img src="https://img.shields.io/github/issues-raw/AndreiDecuseara/tallstack?color=red" />
+
+<img src="https://img.shields.io/github/issues-closed-raw/AndreiDecuseara/tallstack?color=success" />
+
+<img src="https://img.shields.io/github/last-commit/AndreiDecuseara/tallstack?color=purple" />
+
+<img src="https://img.shields.io/github/release-date/AndreiDecuseara/tallstack?color=blue" />
+
 
 </p>
 
@@ -25,14 +33,24 @@
 ---
 
 ## Downloads
-<br>
 
 ### • Download version for Linux
 <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
 </a>
 
-### • Download version for Windows
-<a style = "cursor: not-allowed" href="#" data-view-component="true" class="btn-sm btn BtnGroup-item">  Comming soon
+### • Download version for macOS
+<a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
 </a>
+
+### • Download version for Windows
+<a href="#" data-view-component="true" class="btn-sm btn BtnGroup-item">  Comming soon
+</a>
+
+
+## About
+<br>
+<p>
+What if we told you setting up your TALL Stack project could take less than cleaning your desk? Bet you won't procrastinate starting that project now...  
+</p>
 
 
