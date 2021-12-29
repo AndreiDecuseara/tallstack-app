@@ -36,7 +36,7 @@
 
 | <p align="center" > Linux </p> | <p align="center" > macOS  </p> | <p align="center" > Windows  </p> |
 | --- | --- | --- |
-| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <p>  Comming soon </p>
+| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#">  Comming soon </a>
 
 ## About
 <p>
@@ -99,6 +99,59 @@ https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-
 | --- | --- |
 | <img src="https://user-images.githubusercontent.com/37242478/147598252-eb8dc6a7-4771-4690-b72f-591833ec2493.png" width="600"/> | <img src="https://user-images.githubusercontent.com/37242478/147598360-5c6dca2b-a9ec-41be-a9f6-540b79d9532f.png" width="600"/>
 
+⭐️ <b> Give us a star if you found it useful </b> — we`d love to know it helped you in your work
 
+## Requirements for script
+### Linux / macOS
+<ul>
+     <li>Valet installed (https://cpriego.github.io/valet-linux/)</li>
+     <li>PHP installed (sudo apt-get install php8.0 php8.0-cli php8.0-common php8.0-mysql php8.0-mbstring php8.0-mcrypt php8.0-zip php8.0-fpm)</li>
+     <li>Composer installed (https://getcomposer.org/download/)</li>
+     <li> Node and npm installed (https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)</li>
+</ul>
+
+### Windows
+
+<p>Comming soon</p>
+
+## Installation
+
+### Package installation
+
+     1.`composer require livewire/livewire`
+     2.`composer require laravel/ui`
+     3.`composer require andreidecuseara/tallstack`
+     4.`php artisan ui tallstack`
+
+### Script installation
+
+     1.`Download the script`
+     2.`Install Package`
+     3.`Run `tallstach.sh` into your projects folder, where valet is parked`
+     4.`Follow the instructions from the script`
+
+## License
+<p>The package is free for commercial and non-commercial use under MIT License. Please see License File for more information</p>
+<img src="https://img.shields.io/github/license/AndreiDecuseara/tallstack?color=green" />
+
+## Security
+
+If you discover any security related issues, please email <a href="mailto:andrei.decuseara@updivision.com">andrei.decuseara@updivision.com </a> instead of using the issue tracker.
+
+## Credits
+<ul>
+<li>
+     <h3>Andrei Decuseara - fullstack developer at <a href="https://updivision.com/"> UPDIVISION </a> and <a href="https://backpackforlaravel.com/"> Backpack for Laravel </a><h3>
+</li>
+</ul>
+
+## Updates
+
+<p> Please see <a href="https://github.com/AndreiDecuseara/tallstack/blob/master/CHANGELOG.md"> CHANGELOG </a> for more information on any recent changes. </p>
+<p>
+In the future, we plan to add more granularity to what you can install through the package. We plan to make it possible to choose a template on install and select various ready-made components. We are currently working on a script for Windows, similar to the one for Linux. As for the Linux script, we are planning to get it reviewed and officially accepted into the Linux distribution as an installable package. 
+
+So, stay tuned!
+</p>
 
 
