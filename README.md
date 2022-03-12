@@ -36,7 +36,7 @@
 
 | <p align="center" > Linux </p> | <p align="center" > macOS  </p> | <p align="center" > Windows  </p> |
 | --- | --- | --- |
-| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_1.1-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#">  Comming soon </a>
+| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.0.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.0.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#">  Comming soon </a>
 
 ## About
 <p>
@@ -105,7 +105,7 @@ https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-
 ### Linux / macOS
 <ul>
      <li>Valet installed (https://cpriego.github.io/valet-linux/)</li>
-     <li>PHP installed (sudo apt-get install php8.0 php8.0-cli php8.0-common php8.0-mysql php8.0-mbstring php8.0-mcrypt php8.0-zip php8.0-fpm)</li>
+     <li>PHP installed (sudo apt-get install php php-cli php-common php-mysql php-mbstring php-mcrypt php-zip php-fpm)</li>
      <li>Composer installed (https://getcomposer.org/download/)</li>
      <li> Node and npm installed (https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)</li>
 </ul>
@@ -153,5 +153,4 @@ In the future, we plan to add more granularity to what you can install through t
 
 So, stay tuned!
 </p>
-
 
