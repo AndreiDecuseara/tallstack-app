@@ -134,6 +134,20 @@ nvm use node
 # create new laravel application
 echo "# Create Laravel project" ;
 cd /$FILE/
+
+#check if dir already exists 
+
+if [ -d "$pr_name" ]; then
+  # Take action if $DIR exists. #
+  zenity    --warning \
+                    --text="The name of the project <b>$pr_name</b> already exists in this directory!"\
+                    --width 500
+    case $? in
+         1) exit -1 ;;
+        -1) echo "some error occurred"; exit -1 ;;
+         0) exit -1 ;;
+    esac
+fi
 composer create-project laravel/laravel $pr_name
 
 # go to root

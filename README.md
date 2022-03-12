@@ -36,8 +36,9 @@
 
 | <p align="center" > Linux </p> | <p align="center" > macOS  </p> | <p align="center" > Windows  </p> |
 | --- | --- | --- |
-| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.0.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.0.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#">  Comming soon </a>
+| <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.2-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item"> Download </a> | <a href="https://github.com/AndreiDecuseara/tallstack-pack/raw/main/tallstack_2.2-1_all.deb" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download </a> | <a href="#">  Comming soon </a>
 
+More info about script: https://github.com/AndreiDecuseara/tallstack-app
 ## About
 <p>
 What if we told you setting up your TALL Stack project could take less than cleaning your desk? Bet you won't procrastinate starting that project now...  
@@ -88,7 +89,7 @@ The script allows you to automate all of the following:
      <li>Auto-open browser on your new TALL Stack project when setup is complete</li>
 </ul>
 
-https://user-images.githubusercontent.com/37242478/147578040-c63a09e1-f0e3-43b4-9e05-62da431b1022.mp4
+https://user-images.githubusercontent.com/37242478/158016596-f53d9eca-89c2-461d-a8bc-e190d09e01b9.mp4
 
 
 | <p align="center" >Tall Stack start page</p> | <p align="center" > Login </p> |
